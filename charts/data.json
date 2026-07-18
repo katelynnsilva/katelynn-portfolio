@@ -1,0 +1,187 @@
+{
+  "monthly_revenue": [
+    {
+      "month": "2024-01",
+      "revenue": 362890.63
+    },
+    {
+      "month": "2024-02",
+      "revenue": 275518.83
+    },
+    {
+      "month": "2024-03",
+      "revenue": 272830.59
+    },
+    {
+      "month": "2024-04",
+      "revenue": 355515.01
+    },
+    {
+      "month": "2024-05",
+      "revenue": 267291.17
+    },
+    {
+      "month": "2024-06",
+      "revenue": 274461.43
+    },
+    {
+      "month": "2024-07",
+      "revenue": 367114.51
+    },
+    {
+      "month": "2024-08",
+      "revenue": 360786.95
+    },
+    {
+      "month": "2024-09",
+      "revenue": 343420.4
+    },
+    {
+      "month": "2024-10",
+      "revenue": 259286.66
+    },
+    {
+      "month": "2024-11",
+      "revenue": 383780.1
+    },
+    {
+      "month": "2024-12",
+      "revenue": 527665.95
+    }
+  ],
+  "by_location": [
+    {
+      "location": "QuickCart Online",
+      "revenue": 1253937.81,
+      "total_cost": 893359.16,
+      "profit": 360578.65,
+      "margin_pct": 28.8
+    },
+    {
+      "location": "Salinas, CA",
+      "revenue": 466242.06,
+      "total_cost": 423543.53,
+      "profit": 42698.53,
+      "margin_pct": 9.2
+    },
+    {
+      "location": "Santa Cruz, CA",
+      "revenue": 462271.2,
+      "total_cost": 428645.23,
+      "profit": 33625.97,
+      "margin_pct": 7.3
+    },
+    {
+      "location": "Monterey, CA",
+      "revenue": 474883.69,
+      "total_cost": 443730.57,
+      "profit": 31153.12,
+      "margin_pct": 6.6
+    },
+    {
+      "location": "Fresno, CA",
+      "revenue": 460843.96,
+      "total_cost": 429737.87,
+      "profit": 31106.09,
+      "margin_pct": 6.7
+    },
+    {
+      "location": "Sacramento, CA",
+      "revenue": 464291.49,
+      "total_cost": 449934.29,
+      "profit": 14357.2,
+      "margin_pct": 3.1
+    },
+    {
+      "location": "San Jose, CA",
+      "revenue": 468092.02,
+      "total_cost": 475960.53,
+      "profit": -7868.51,
+      "margin_pct": -1.7
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Video Games",
+      "revenue": 990414.45,
+      "profit": 212298.26,
+      "margin_pct": 21.4
+    },
+    {
+      "category": "Consoles",
+      "revenue": 1894226.89,
+      "profit": 181550.76,
+      "margin_pct": 9.6
+    },
+    {
+      "category": "Accessories",
+      "revenue": 551294.06,
+      "profit": 86634.31,
+      "margin_pct": 15.7
+    },
+    {
+      "category": "Collectibles",
+      "revenue": 387939.25,
+      "profit": 39849.28,
+      "margin_pct": 10.3
+    },
+    {
+      "category": "Trade-Ins/Used Games",
+      "revenue": 226687.58,
+      "profit": -14681.56,
+      "margin_pct": -6.5
+    }
+  ],
+  "by_channel": [
+    {
+      "channel": "In-Store",
+      "revenue": 2796624.42,
+      "units_sold": 38298,
+      "margin_pct": 5.2
+    },
+    {
+      "channel": "Online",
+      "revenue": 1253937.81,
+      "units_sold": 16853,
+      "margin_pct": 28.8
+    }
+  ],
+  "overhead_by_location": [
+    {
+      "location": "San Jose, CA",
+      "total_overhead": 161200.0,
+      "revenue": 468092.02,
+      "overhead_pct_of_revenue": 34.4
+    },
+    {
+      "location": "Sacramento, CA",
+      "total_overhead": 135200.0,
+      "revenue": 464291.49,
+      "overhead_pct_of_revenue": 29.1
+    },
+    {
+      "location": "Monterey, CA",
+      "total_overhead": 124800.0,
+      "revenue": 474883.69,
+      "overhead_pct_of_revenue": 26.3
+    },
+    {
+      "location": "Fresno, CA",
+      "total_overhead": 119600.0,
+      "revenue": 460843.96,
+      "overhead_pct_of_revenue": 26.0
+    },
+    {
+      "location": "Santa Cruz, CA",
+      "total_overhead": 114400.0,
+      "revenue": 462271.2,
+      "overhead_pct_of_revenue": 24.7
+    },
+    {
+      "location": "Salinas, CA",
+      "total_overhead": 109200.0,
+      "revenue": 466242.06,
+      "overhead_pct_of_revenue": 23.4
+    }
+  ]
+}
