@@ -134,9 +134,18 @@ ORDER BY profit DESC;</code></pre>
       </div>
 
       <h4>Interactive Tableau dashboard</h4>
-      <div id="tableau-embed" class="tableau-placeholder">
-        <p>Tableau Public dashboard coming soon — publish from Tableau Public and drop the embed
-        code here to replace this placeholder.</p>
+      <div id="tableau-embed">
+        <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+        <tableau-viz id="tableauViz"
+          src="https://public.tableau.com/views/LevelUpGamesQuickCartRetailSalesAnalysis/RetailSalesDashboard"
+          toolbar="bottom"
+          hide-tabs>
+        </tableau-viz>
+        <p class="viz-link">
+          <a href="https://public.tableau.com/app/profile/katelynn.silva/viz/LevelUpGamesQuickCartRetailSalesAnalysis/RetailSalesDashboard" target="_blank" rel="noopener">
+            View full dashboard on Tableau Public →
+          </a>
+        </p>
       </div>
     </div>
 
